@@ -3,7 +3,6 @@
   For two-player logical guessing game
   
   Name: Hao Ma
-  ID: 777497
 -}
 
 module Proj1 (feedback, initialGuess, nextGuess, GameState) where
