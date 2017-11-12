@@ -1,1 +1,1 @@
-# two-player logical guessing game
+# two-player logical card guessing game
